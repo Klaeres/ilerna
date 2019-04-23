@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    	<title>PAC Desarrollo</title>
+    	<link>https://thegame2191.wixsite.com/misitio</link>
+    	<description>Aplicaciones de Desarrollo Multiplataforma</description>
+    	<language>es</language>
+    	<item>
+		<title>Mapas SMBU</title>
+		<link>
+		https://thegame2191.wixsite.com/misitio/post/echad-un-vistazo-a-algunos-de-los-mejores-y-m%C3%A1s-divertidos-escenarios-creados-con-el-editor-de-super
+		</link>
+		<description>Echad un vistazo a algunos de los mejores y mas divertidos escenarios creados con el editor de Super
+		</description>
+   	 </item>
+   	 <item>
+		<title>Blog movil</title>
+		<link>
+		https://thegame2191.wixsite.com/misitio/post/escribe-en-tu-blog-desde-tu-sitio-web-o-m%C3%B3vil
+		</link>
+		<description>Escribe en tu blog desde tu sitio web o movil
+		</description>
+   	 </item>
+   	 <item>
+		<title>Blog increible</title>
+		<link>
+		https://thegame2191.wixsite.com/misitio/post/disena-un-blog-increible
+		</link>
+		<description>Crea un blog increible
+		</description>
+    	</item>
+    	<item>
+		<title>Blog rapido</title>
+		<link>
+		https://thegame2191.wixsite.com/misitio/post/tu-blog-en-un-clic
+		</link>
+		<description>Tu blog en un clic
+		</description>
+   	 </item>
+    	 <item>
+		<title>Mitos PS4</title>
+		<link>
+		https://thegame2191.wixsite.com/misitio/post/cinco-mitos-sobre-ps5-que-debes-tener-claros
+		</link>
+		<description>Cinco mitos sobre PS5 que debes tener claros
+		</description>
+   	 </item>
+  </channel>
+</rss>
